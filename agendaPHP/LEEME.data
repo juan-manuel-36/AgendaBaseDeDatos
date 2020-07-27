@@ -1,0 +1,9 @@
+datos del servidor
+host=localhost
+usuario=user_agenda
+pasword=12345
+base de datos en agendaPHP/AgendaPhp.sql
+
+usuario 1= 'juan123@nextu',clave= '1234');
+usuario 2= 'pedro@nextu', clave='4567');
+usuario= 'raul@nextu', clave='9393');
